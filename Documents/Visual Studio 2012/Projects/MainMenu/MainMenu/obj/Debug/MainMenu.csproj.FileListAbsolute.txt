@@ -1,0 +1,10 @@
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\bin\Debug\MainMenu.exe.config
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\bin\Debug\MainMenu.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\bin\Debug\MainMenu.pdb
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.csprojResolveAssemblyReference.cache
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.Form1.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.Properties.Resources.resources
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.csproj.GenerateResource.Cache
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.exe
+c:\users\sarmed\documents\visual studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.pdb
+C:\Users\Sarmed\Documents\Visual Studio 2012\Projects\MainMenu\MainMenu\obj\Debug\MainMenu.Form2.resources
